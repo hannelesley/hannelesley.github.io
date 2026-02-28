@@ -2,5 +2,6 @@ header
 
 h1 {
     text-align: center;
+    font: 1em sans-serif italic;
     font-size: clamp(2rem,15vw,4rem);
 }
