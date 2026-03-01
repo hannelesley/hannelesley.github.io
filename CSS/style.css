@@ -4,7 +4,7 @@ body {
 
 @font-face {
     font-family: 'INVASION2000';
-    src: url(../INVASION2000.woff);format:('woff')
+    src: url(CSS/INVASION2000.woff);format:('woff')
 }
 
 h1 {
@@ -13,4 +13,5 @@ h1 {
     font: 1em sans-serif italic;
     font-size: clamp(0.5rem,5vw,2rem);
     font-style: italic;
+    font-family: 'INVASION2000';
 }
