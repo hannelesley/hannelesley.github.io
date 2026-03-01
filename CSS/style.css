@@ -4,7 +4,7 @@ body {
 
 @font-face {
     font-family: 'INVASION2000';
-    src: url(CSS/INVASION2000.woff);format:('woff')
+    src: url('CSS/INVASION2000.woff'); format:('woff')
 }
 
 h1 {
