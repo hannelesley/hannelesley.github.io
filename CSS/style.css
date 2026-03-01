@@ -1,9 +1,11 @@
-header {
-    background-color: fuchsia;
+body {
+ 
 }
 
 h1 {
-    text-align: center;
+    text-align: left;
+    position: bottom;
     font: 1em sans-serif italic;
-    font-size: clamp(2rem,15vw,4rem);
+    font-size: clamp(0.5rem,5vw,2rem);
+    font-style: italic;
 }
