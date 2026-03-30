@@ -14,5 +14,4 @@ h1 {
     font-size: clamp(0.5rem,5vw,2rem);
     font-style: italic;
     font-family: 'INVASION2000';
-    text-decoration-style: wavy;
 }
